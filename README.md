@@ -12,7 +12,7 @@ A full-stack Task Tracker application built with **React**, **Express.js**, and 
 |------------|-----------|-------------|
 | ![Login](./assets/login.png) | ![Dashboard](./assets/dashboard.png) | ![Create Task](./assets/task.png) |
 
-> ⚠️ Make sure to add these screenshots to `/assets` folder in your GitHub repo or use image links.
+> more screenshots inside assets folder
 
 ---
 
